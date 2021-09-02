@@ -1,4 +1,5 @@
 {
+    "name": "code-workspace-launcher",
     "bin": {
         "code-workspace": "./bin.ts"
     },
