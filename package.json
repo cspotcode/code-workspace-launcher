@@ -2,7 +2,8 @@
     "name": "code-workspace-launcher",
     "version": "0.0.1",
     "bin": {
-        "code-workspace": "./bin.ts"
+        "code-workspace": "./bin.ts",
+        "code-workspace-create": "./bin-create.ts"
     },
     "dependencies": {
         "@types/inquirer": "^7.3.3",
